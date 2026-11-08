@@ -10,7 +10,7 @@
     "grand company",
     "missions"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 13,
   "LoadPriority": 0,
   "CanUnloadAsync": false,
   "RepoUrl": "https://github.com/VeraNala/Squadronista",

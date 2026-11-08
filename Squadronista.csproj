@@ -1,15 +1,15 @@
-<Project Sdk="Dalamud.NET.Sdk/14.0.1">
+<Project Sdk="Dalamud.NET.Sdk/13.1.0">
   <PropertyGroup>
     <AssemblyName>Squadronista</AssemblyName>
     <Authors>liza</Authors>
     <Version>1.0.0.4</Version>
-	<TargetFramework>net10.0-windows7.0</TargetFramework>
+	<TargetFramework>net9.0-windows7.0</TargetFramework>
     <Description>Squadron Mission Solver</Description>
     <PackageProjectUrl>https://github.com/VeraNala/Squadronista</PackageProjectUrl>
     <IsPackable>false</IsPackable>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="ECommons" Version="3.1.0.6" />
+    <PackageReference Include="ECommons" Version="3.0.1.17" />
   </ItemGroup>
 
 

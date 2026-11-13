@@ -14,6 +14,7 @@
   "LoadPriority": 0,
   "CanUnloadAsync": false,
   "RepoUrl": "https://github.com/VeraNala/Squadronista",
+  "IconUrl": "https://raw.githubusercontent.com/pollyhaei-ai/reSquadronista/master/images/icon.png",
   "AssemblyVersion": "1.0.0.0",
   "Changelog": ""
 }

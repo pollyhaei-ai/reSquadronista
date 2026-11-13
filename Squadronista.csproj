@@ -20,4 +20,10 @@
       <CopyLocal>true</CopyLocal>
     </Reference>
   </ItemGroup>
+
+  <ItemGroup>
+    <None Include="images\icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 </Project>
